@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=void\ readFile(java.lang.String)
+comment1.params=fileName
+comment1.target=void\ compressAndSaveAs(java.lang.String)
+comment2.params=a\ b
+comment2.target=java.lang.String\ generateString(int,\ int)
+comment3.params=
+comment3.target=void\ printStats()
+comment4.params=filename
+comment4.target=void\ decompress(java.lang.String)
+comment5.params=
+comment5.target=void\ resetArray()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
